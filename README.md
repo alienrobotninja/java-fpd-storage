@@ -1,2 +1,2 @@
-# py-fpd-play
-Python client that alows users to set up local development Bee clusters and FDP development enviroments with Docker.
+# java-fdp-storage
+The FDP-Storage Java Implementation (java-fdp-storage) is a serverless web3 filesystem for organizing users' personal data.
